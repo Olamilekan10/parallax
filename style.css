@@ -5,13 +5,13 @@ html{
     margin: 0;
 }
 #pics1{
-    /* border: 1px solid white;
+    border: 1px solid white;
     height: 100vh;
     background-image: url(pics/img_parallax.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed; */
-}
+    background-attachment: fixed;
+/* } */
 #pics1a{
     margin-top: -100vh;
     border: 1px solid white;
