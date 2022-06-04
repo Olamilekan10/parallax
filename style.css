@@ -87,7 +87,7 @@ html{
     mix-blend-mode: screen;
     background-color: rgb(131, 138, 143);
 }
-#box3{
+/* #box3{
     height: 8vh;
     width: 40vh;
     margin: 20vh auto;
@@ -95,7 +95,7 @@ html{
     text-align: center;
     font-size: 30px;
     padding-top: 15px;
-}
+} */
 #word3{
     padding: 60px;
     background-color: black;
